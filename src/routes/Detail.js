@@ -14,8 +14,4 @@ function Detail() {
   }, [])
   return <h1>Detail</h1>
 }
-/*
-2023.04.23
-react
- */
 export default Detail

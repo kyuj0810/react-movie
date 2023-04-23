@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-movie.git/static/css/main.a47206dc.css",
+    "main.js": "/react-movie.git/static/js/main.117924e5.js",
+    "index.html": "/react-movie.git/index.html",
+    "main.a47206dc.css.map": "/react-movie.git/static/css/main.a47206dc.css.map",
+    "main.117924e5.js.map": "/react-movie.git/static/js/main.117924e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a47206dc.css",
+    "static/js/main.117924e5.js"
+  ]
+}
